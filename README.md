@@ -11,6 +11,6 @@ I have industry experience from my two internships at Libro, where I got to work
 Programming languages: Java, Ruby, C#, Python, HTML/CSS, JavaScript, Typescript, C, OCaml, SQL <br>
 Frameworks/Libraries: Spring Boot, Ruby on Rails, React, EmberJS, JUnit, JavaFX, VueJs, Gradle, Git/GitHub
 
-## How to Reach Me
+## Contact Me 
 📬 [Email Me](mailto:rehean.thillai@gmail.com) <br>
 📱 [Connect with me on LinkedIn](https://www.linkedin.com/in/reheant/)
