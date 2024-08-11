@@ -11,6 +11,18 @@ I have industry experience from my two internships at Libro, where I got to work
 Programming languages: Java, Ruby, C#, Python, HTML/CSS, JavaScript, Typescript, C, OCaml, SQL <br>
 Frameworks/Libraries: Spring Boot, Ruby on Rails, React, EmberJS, JUnit, JavaFX, VueJs, Gradle, Git/GitHub
 
+## Projects 
+| Project  | Description | Languages and Tools  |
+| ------------- | ------------- |------------- |
+| Lead Management Tool | Developed an automated lead management tool that efficiently manages leads for a team of 26 insurance agents at Industrial Alliance. | Next.Js, React, MongoDB, Vercel |
+| [NURO](https://github.com/reheant/NURO) | An advanced wearable device to assist dementia patients by reminding them of daily tasks, interactions, and past conversations when needed. | Raspberry Pi, Python, React, and MongoDB |
+| [TimeWiz](https://github.com/timewizhq/timewiz) | A versatile personal assistant integrating email, calendar management and natural language interaction. | Python, React and Flask |
+| [SportsCenter]() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+| []() |  |  |
+
 ## Contact Me 
 📬 [Email Me](mailto:rehean.thillai@gmail.com) <br>
 📱 [Connect with me on LinkedIn](https://www.linkedin.com/in/reheant/)
